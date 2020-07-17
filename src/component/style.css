@@ -1,0 +1,9 @@
+.frame{
+	position: absolute;
+	width: 1440px;
+	height: 1024px;
+	left: 0px;
+	top: 0px;
+
+	background: #0F1C4B;
+}
